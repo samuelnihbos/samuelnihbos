@@ -6,16 +6,21 @@
 
 ## **OS that i use currently**
 -**ArcoLinux** 
+
 -**Fedora 35**
 
 ## **Skills?**
 -**Linux Administration**
+
 -**A bit of Shell Scripting**
+
 -**dEsIGn Is My PaSSiOn**
 
 ## **Language that i familliar with** (familiar doesnt mean i can code with that language)
 -**Python**
+
 -**HTML** (html is programming language, right?)
+
 -**Other scripting language** (such as batch, vbs, etc)
 
 📈 **Stats:**
