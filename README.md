@@ -21,6 +21,10 @@
 
 -**HTML** (html is programming language, right?)
 
+-**Python** (print ("hello world"))
+
+-**Haskell** (thanks xmonad)
+
 -**Other scripting language** (such as batch, vbs, etc)
 
 📈 **Stats:**
