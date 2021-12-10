@@ -7,7 +7,6 @@
 ## **OS that i use currently**
 -**ArcoLinux** 
 
--**Fedora 35**
 
 ## **Skills?**
 -**Linux Administration**
