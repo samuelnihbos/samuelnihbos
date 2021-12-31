@@ -35,7 +35,7 @@
 
 
 **Notes:**
-All activity have been moved to <a href="https://gitlab.com/samuelnihbos" target="_blank"my gitlab</a>
+All activity have been moved to [https://gitlab.com/samuelnihbos](my gitlab)
 
 
 
