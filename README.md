@@ -34,8 +34,4 @@
 </p>
 
 
-**Notes:**
-All activity have been moved to [https://gitlab.com/samuelnihbos] (my gitlab)
-
-
 
