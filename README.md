@@ -35,7 +35,7 @@
 
 
 **Notes:**
-All activity have been moved to [https://gitlab.com/samuelnihbos](my gitlab)
+All activity have been moved to [https://gitlab.com/samuelnihbos] (my gitlab)
 
 
 
