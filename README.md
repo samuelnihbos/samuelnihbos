@@ -1,11 +1,11 @@
 # Hi there, I'm <a href="https://samuelnihbos.rf.gd/" target="_blank">Samuel</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://samuelnihbos.rf.gd)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://http.cat/404)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Samueeeeel6)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/ssamuel666)
 
 ## **OS that i use currently**
--**ArcoLinux** 
+-**Arch btw** 
 
 
 ## **Skills?**
