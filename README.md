@@ -23,6 +23,8 @@
 
 -**Haskell** (thanks xmonad)
 
+-**C** (simplecalculatorapp.c)
+
 -**Other scripting language** (such as batch, vbs, etc)
 
 📈 **Stats:**
