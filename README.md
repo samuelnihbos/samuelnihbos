@@ -16,7 +16,6 @@
 -**dEsIGn Is My PaSSiOn**
 
 ## **Language that i familliar with** (familiar doesnt mean i can code with that language)
--**Python**
 
 -**HTML** (html is programming language, right?)
 
