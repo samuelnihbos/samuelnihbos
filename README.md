@@ -4,18 +4,18 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Samueeeeel6)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/inisamueell)
 
-## **OS that i use currently**
+### **OS that i use currently**
 - **Arcolinux**
 
 
-## **Skills?**
+### **Skills?**
 - **Linux Administration**
 
 - **A bit of Shell Scripting**
 
 - **dEsIGn Is My PaSSiOn**
 
-## **Language that i familliar with** (familiar doesnt mean i can code with that language)
+### **Language that i familliar with** (familiar doesnt mean i can code with that language)
 
 - **HTML** (html is programming language, right?)
 
