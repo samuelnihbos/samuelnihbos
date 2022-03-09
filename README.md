@@ -36,7 +36,7 @@
 
 
 <details align="center">
-<summary><samp>extend</samp> &#9655;</summary>
+<summary><samp>extend me</samp> &#9655;</summary>
  
 ## **Import GPG key**
 ```
