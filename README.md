@@ -5,27 +5,27 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/inisamueell)
 
 ## **OS that i use currently**
--**Arcolinux**
+- **Arcolinux**
 
 
 ## **Skills?**
--**Linux Administration**
+- **Linux Administration**
 
--**A bit of Shell Scripting**
+- **A bit of Shell Scripting**
 
--**dEsIGn Is My PaSSiOn**
+- **dEsIGn Is My PaSSiOn**
 
 ## **Language that i familliar with** (familiar doesnt mean i can code with that language)
 
--**HTML** (html is programming language, right?)
+- **HTML** (html is programming language, right?)
 
--**Python** (print ("hello world"))
+- **Python** (print ("hello world"))
 
--**Haskell** (thanks xmonad)
+- **Haskell** (thanks xmonad)
 
--**C** (simplecalculatorapp.c)
+- **C** (simplecalculatorapp.c)
 
--**Other scripting language** (such as batch, vbs, etc)
+- **Other scripting language** (such as batch, vbs, etc)
 
 <details align="center">
 <summary><samp>📈 Stats</samp></summary>
