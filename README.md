@@ -5,7 +5,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/inisamueell)
 
 ### **OS that i use currently**
-- **Arcolinux**
+- **Endeavouros**
 
 
 ### **Skills?**
