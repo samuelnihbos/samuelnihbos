@@ -6,7 +6,7 @@
 
 ### **OS that i use currently**
 - **arch btw**
-- **macOS Monterey** (skul need nonfoss software)
+- **macOS Monterey** (skool need nonfoss software)
 
 
 ### **Skills?**
