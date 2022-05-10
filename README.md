@@ -5,13 +5,16 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/inisamueell)
 
 ### **OS that i use currently**
-- **Endeavouros**
+- **arch btw**
+- **macOS Monterey** (skul need nonfoss software)
 
 
 ### **Skills?**
 - **Linux Administration**
 
 - **A bit of Shell Scripting**
+
+- **Web programming thingie (html & css only mwehwhe)**
 
 - **dEsIGn Is My PaSSiOn**
 
